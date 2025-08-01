@@ -1,2 +1,4 @@
 # Apna-Demo
-This is my first repository auther sohel khan
+This is my first repository
+<br>
+Aauthor Sohel Khan
